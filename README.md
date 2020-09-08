@@ -1,1 +1,1 @@
-# node-red=contrib-nfc
+# node-red-contrib-nfc
